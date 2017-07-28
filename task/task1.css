@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 16px;
+}
+.wrap{
+    width:100%;
+    margin: 0 auto;
+}
+.leftsquare{
+    width: 30%;
+    height: 30vw;
+    margin: 1.5vw;
+    border: 1px transparent;
+    border-radius: 20px;
+    background:#ffa600;
+    float:left;
+}
+.middlesquare{
+    width: 30%;
+    height: 30vw;
+    margin:1.5vw 1.9vw;
+    border: 1px transparent;
+    border-radius: 20px;
+    background:#ffa600;
+    float:left;
+}
+.rightsquare{
+    width: 30%;
+    height: 30vw;
+    margin:1.5vw;
+    border: 1px transparent;
+    border-radius: 20px;
+    background:#ffa600;
+    float:right;
+}
