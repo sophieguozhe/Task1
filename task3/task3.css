@@ -1,0 +1,52 @@
+*{
+    margin: 1%;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+.wrap{
+    width:50%;
+    height:0;
+    padding-bottom: 88.75%;
+    margin: 0 auto;
+    background: #68cdd5;
+}
+.left{
+    padding-top: 1.6rem;
+    padding-left: 3.2rem;
+}
+.middle{
+    width: 18rem;
+    padding-top: 12rem;
+    margin: 0 auto;
+}
+.text {
+    font-size: 3.2rem;
+    font-family: "HiraginoSansGB";
+    padding-top: 15rem;
+    color: rgb(255, 255, 255);
+    line-height: 1.807;
+    width: 70%;
+    margin: 0 auto;
+}
+.logo{
+    padding-top: 14rem;
+    width: 100%;
+    margin: 0 auto;
+}
+.logo-img{
+    padding:0 9rem;
+    float:left;
+}
+.logo-text {
+    font-size: 2.4rem;
+    font-family: "Adobe Heiti Std";
+    color: rgb(255, 255, 255);
+    line-height: 2.259;
+    padding:0 8rem;
+    float:left;
+}
+
+
+
